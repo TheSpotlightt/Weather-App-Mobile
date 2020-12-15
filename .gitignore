@@ -7,8 +7,6 @@ npm-debug.*
 *.key
 *.mobileprovision
 *.orig.*
-app.json
-babel.config.js
 web-build/
 # macOS
 .DS_Store
